@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/balck.jpg</File>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/BLACKorWHITE.mp3</File>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/BLACKorWHITETexture.jpg</File>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/galleryFont.spritefont</File>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/galleryFont2.spritefont</File>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/key-press-1.mp3</File>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/mania-hit0_256.png</File>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/mania-hit100_256.png</File>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/mania-hit200_256.png</File>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/mania-hit300_256.png</File>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/mania-hit300g_256.png</File>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/mania-hit50_256.png</File>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/mania-key1.png</File>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/mania-key1D.png</File>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/mania-note1.png</File>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/mania-stage-left.png</File>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/mania-stage-right.png</File>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/menu-back.png</File>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/MittsiesTexture.jpg</File>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/MittsiesVitality.mp3</File>
+    <File>C:/Users/Soul/Desktop/semestr 5/Arrhythmia/Rhythm game/Content/pause-128.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

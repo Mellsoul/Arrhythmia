@@ -1,0 +1,79 @@
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Rhythm game.exe
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Rhythm game.deps.json
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Rhythm game.runtimeconfig.json
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Rhythm game.runtimeconfig.dev.json
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Rhythm game.dll
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Rhythm game.pdb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\obj\Debug\netcoreapp3.1\Rhythm game.csproj.AssemblyReference.cache
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\obj\Debug\netcoreapp3.1\Rhythm game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\obj\Debug\netcoreapp3.1\Rhythm game.AssemblyInfoInputs.cache
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\obj\Debug\netcoreapp3.1\Rhythm game.AssemblyInfo.cs
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\obj\Debug\netcoreapp3.1\Rhythm game.csproj.CoreCompileInputs.cache
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\obj\Debug\netcoreapp3.1\Rhythm game.csproj.CopyComplete
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\obj\Debug\netcoreapp3.1\Rhythm game.dll
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\obj\Debug\netcoreapp3.1\Rhythm game.pdb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\obj\Debug\netcoreapp3.1\Rhythm game.genruntimeconfig.cache
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-key1.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-key1@2x.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-key1D.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-key1D@2x.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-note1.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-note1L.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-noteSL.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-stage-left.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-stage-right.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-warningarrow.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\menu-back.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\menu-button-background.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\menu-button-background@2x.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\ranking-A.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\ranking-B.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\ranking-C.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\ranking-D.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\ranking-graph.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\ranking-panel.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\ranking-perfect.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\ranking-S.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\ranking-X.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\ready.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\scorebar-bg.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\scorebar-colour.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\section-fail.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\section-pass.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\galleryFont.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-hit0.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-hit100.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-hit200.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-hit300.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-hit300g.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-hit50.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-notePressed.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\key-press-1.ogg
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\key-press-1.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\MittsiesVitality.ogg
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\MittsiesVitality.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\Pause230.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\pause-128.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\BLACKorWHITE.ogg
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\BLACKorWHITE.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\BLACKorWHITETexture.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\MittsiesTexture.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\balck.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-hit0_256.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-hit100_256.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-hit200_256.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-hit300g_256.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-hit300_256.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\mania-hit50_256.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\galleryFont2.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\Avava_cake0304_nolight.xnb
+C:\Users\Soul\Desktop\semestr 5\Arrhythmia\Rhythm game\bin\Debug\netcoreapp3.1\Content\Avava_cake0304_nolight_432.xnb
